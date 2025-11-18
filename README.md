@@ -1,90 +1,93 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Edudraft – Academic Resource & Template Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+## Project Overview
+Edudraft is a multipage website designed to provide **academic resources and ready-to-use templates** for students and professionals. The website is **responsive, interactive, and user-friendly**, allowing users to easily access educational templates like Thesis, CVs, Research Papers, and Presentation slides.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+The website was built as part of a **web development project**, with the goal of combining HTML5, CSS, JavaScript, and proper project structure for deployment.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## Pages Included
+The Edudraft website contains the following pages:
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+1. **Home** – Introduction and overview of Edudraft services.
+2. **About** – Information about the purpose and mission of Edudraft.
+3. **Services** – Details of the academic support services offered, including a Support Team banner.
+4. **Templates** – Downloadable academic templates:
+   - Thesis Template (DOCX)
+   - CV Template (DOCX)
+   - Research Paper Template (DOCX)
+   - Presentation Slides Template (PPTX)
+5. **Contact** – Contact information and a professional contact banner.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+## Features
+- **Responsive Design**: Works on desktops, tablets, and mobile devices.
+- **Interactive Navigation**: Mobile-friendly menu toggle using JavaScript.
+- **Semantic HTML5**: Clean structure with meaningful tags for accessibility.
+- **Downloadable Templates**: Users can download ready-to-use academic files.
+- **Professional Banners**: Each page includes production-ready free images from Unsplash and Pexels.
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+## Technologies Used
+- **HTML5** – Structure of pages
+- **CSS3** – Styling, colors, and responsive layouts
+- **JavaScript** – Interactive menu toggle
+- **Netlify** – Hosting and deployment
 
 ---
 
-## Deliverables
+## File Structure
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+edudraft/<br>
+│<br>
+├── index.html<br>
+├── home.html<br>
+├── about.html<br>
+├── services.html<br>
+├── templates.html<br>
+├── contact.html<br>
+├── README.md<br>
+│<br>
+├── css/<br>
+│   └── style.css<br>
+│<br>
+├── js/<br>
+│   └── script.js<br>
+│<br>
+└── assets/<br>
+    └── downloads/<br>
+        ├── Thesis_Template.docx<br>
+        ├── CV_Template.docx<br>
+        ├── Research_Paper_Template.docx<br>
+        └── Presentation_Slides.pptx<br>
 
 ---
 
-## Outcome
+## Deployment
+The website is ready to be deployed on **Netlify**:
+1. Sign in to [Netlify](https://www.netlify.com/).
+2. Drag and drop your project folder or connect your GitHub repository.
+3. The site will automatically be hosted and given a live URL ="https://edudraft.netlify.app/"
+   
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+---
+
+## Live URL
+Once deployed, your site will be accessible via the URL provided by Netlify.
+Github Pages ="https://jsews.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/"
+ 
+---
+
+## Notes
+- All images are free to use from Pexels and Unsplash.
+- Templates included are ready-to-download and can be edited in Word or PowerPoint.
+- The code is **clean, modular, and commented** for maintainability.
+
+---
+
+## Author
+**Janice Sewava**  
+Student / Web Developer  
