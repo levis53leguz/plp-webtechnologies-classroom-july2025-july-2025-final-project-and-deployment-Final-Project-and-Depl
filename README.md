@@ -89,5 +89,6 @@ Github Pages ="https://jsews.github.io/plp-webtechnologies-classroom-july2025-ju
 ---
 
 ## Author
-**Janice Sewava**  
+**Elvis Kessy**  
 Student / Web Developer  
+
